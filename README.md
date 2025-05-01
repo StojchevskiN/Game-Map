@@ -4,7 +4,7 @@ This is a small personal project I'm working on to practice building 3D worlds i
 
 ## Screenshots & GIFs
 
-![alt text](../START-UnrealEditor2025-05-0118-15-13-ezgif.com-video-to-gif-converter.gif)
+![alt text](START-UnrealEditor-1.gif)
 
 ![alt text](SS1.png)
 
